@@ -11,3 +11,5 @@ El archivo utils.py contiene estructuras y herramientas para cargar conjuntos de
 
 El archivo clip_labels.py contiene los distintos tipos de descripciones utilizadas como
 etiquetas para evaluar el rendimiento de CLIP al clasificar las imágenes de test.
+
+El conjunto de datos utilizado está disponible en https://doi.org/10.5281/zenodo.15881616
